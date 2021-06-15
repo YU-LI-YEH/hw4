@@ -328,4 +328,4 @@ BUILD/B_L4S5I_IOT01A/GCC_ARM/main.o: main.cpp \
  bbcar/mbed_rpc/rpc.h bbcar/mbed_rpc/Arguments.h \
  /home/ee2405/ee2405/mbed-os-build/connectivity/mbedtls/include/mbedtls/platform.h \
  bbcar/mbed_rpc/RPCVariable.h bbcar/mbed_rpc/RPCFunction.h \
- bbcar/mbed_rpc/RpcClasses.h
+ bbcar/mbed_rpc/RpcClasses.h bbcar/bbcar/parallax_encoder.h
