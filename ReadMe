@@ -1,0 +1,10 @@
+1. XBee Controlled BB Car
+PC/Python sends a RPC command though XBee (with position parameters) to reverse park a BB car.
+The BB Car will park automatically according to the position parameters.
+2. Line Following BB Car
+Use OpenMV to detect a straight line.
+Steer BB car to go forward and follow the line.
+3. BB Car Position Calibration
+Use OpenMV to scan the above AprilTag codes. We can use the scanned AprilTag to determine the viewing angle from OpenMV to the AprilTag surface.
+Steer BB Car such that the car is facing directly and perpendicular to the AprilTag surface.
+Use PING to measure the distance between BB Car and AprilTag surface.
